@@ -1,0 +1,192 @@
+﻿
+/*===========================================
+			Global Styles				
+==============================================*/
+*
+{
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+img, fieldset
+{
+    border: 0;
+}
+
+a
+{
+    color: #3B6EBF;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.clr
+{
+    clear: both;
+}
+img
+{
+    vertical-align: bottom;
+}
+body
+{
+    background: #D9DCE5;
+    font-size: 12px;
+    font-family: Verdana;
+    line-height: 1.7em;
+    color: Black;
+}
+/*=======================
+        Main Div
+========================*/
+#main_div
+{
+    width: 80%;
+    height:auto;
+    overflow: hidden;
+    margin: 0 auto;
+    box-shadow: 0 4px 4px #6F757F;
+    background:#fff;
+}
+#header
+{
+    width: 100%;
+    height: 235px;
+    overflow:hidden;
+}
+.header_inner
+{
+    width: 850px;
+    height: 235px;
+    position: relative;
+    background:#d6c4ba;
+    margin:0 auto;
+}
+.header h1
+{
+    text-align: center;
+    line-height: 50px;
+    font-family: Times New Roman;
+    text-shadow: 0 1px 1px #111;
+}
+.header a img
+{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+.Button
+{
+    width: 85px;
+    height: 30px;
+    border: none;
+    text-align: center;
+    line-height: 30px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 3px 3px 3px #ccc;
+    -webkit-box-shadow: 3px 3px 3px #ccc;
+    box-shadow: 3px 3px 3px #ccc;
+    background: url(../Images/button_bg.png) no-repeat;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 15px;
+    text-shadow: 0 1px 0 #111111;
+}
+.Button:hover, .Button:focus
+{
+    border-color: #c5c5c5;
+    background: #0EA90E;
+}
+.Button_VariableWidth
+{
+   
+    height: 30px;
+    border: none;
+    text-align: center;
+    line-height: 30px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 3px 3px 3px #ccc;
+    -webkit-box-shadow: 3px 3px 3px #ccc;
+    box-shadow: 3px 3px 3px #ccc;
+    background: url(../Images/button.png) repeat-x;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 15px;
+    text-shadow: 0 1px 0 #111111;
+}
+.Button_VariableWidth:hover, .Button_VariableWidth:focus
+{
+    border-color: #c5c5c5;
+    background: #0EA90E;
+}
+.TextBox
+{
+    width: 110px; /*167*/
+    height: 25px;
+    border: 1px solid #a5bed2;
+    background: #ffffff;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    color: Black;
+    font-weight: normal;
+    -moz-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+    border-color: #518ee2;
+    padding: 0 5px;
+}
+.TextBox:hover
+{
+    border-color: #0DFA0D;
+    background: #F7F6F6;
+}
+.DropDownList
+{
+    min-width:165px;
+    max-width:250px;   
+    height: 25px;
+    border: 1px solid #a5bed2;
+    background: #ffffff;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    color: Black;
+    font-weight: normal;
+    -moz-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+    border-color: #518ee2;
+}
+.DropDownList:hover
+{
+    border-color: #0DFA0D;
+    background: #F7F6F6;
+}
+.text
+{
+    font-size:16px;
+    font-family:Times New Roman;
+}
+.report_view
+{
+    Width:850px; 
+    Height:1000px;  
+    margin:0 auto;
+    overflow:hidden;
+    background-color:White;
+}
+.input_table
+{
+    width: 100%;
+    margin:0 auto;
+    overflow:hidden;
+    margin-top:35px;
+}

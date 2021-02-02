@@ -1,0 +1,255 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using TalukderPOS.BLL;
+using System.Drawing;
+using System.Data;
+using System.Configuration;
+using System.Data.SqlClient;
+using System.Security.Cryptography;
+using System.IO;
+using System.Text;
+
+public partial class frmLogin : System.Web.UI.Page
+{
+    string connStr = ConfigurationManager.ConnectionStrings["conn_str"].ConnectionString;
+    SqlConnection dbConnect = new SqlConnection(ConfigurationManager.ConnectionStrings["conn_str"].ConnectionString);
+    SqlCommand cmd;
+    SqlDataAdapter da = new SqlDataAdapter();
+    string sql;
+
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        msgtr.Visible = false;
+        if (Session["UserID"] != null && Session["Password"] != null)
+        {
+            if (System.Web.HttpContext.Current.Request.Cookies["UserID"] != null)
+            {
+                Session["UserID"] = null;
+                System.Web.HttpContext.Current.Response.Cookies["UserID"].Expires = DateTime.Now.AddDays(-1);
+            }
+
+            if (System.Web.HttpContext.Current.Request.Cookies["Password"] != null)
+            {
+                Session["Password"] = null;
+                System.Web.HttpContext.Current.Response.Cookies["Password"].Expires = DateTime.Now.AddDays(-1);
+            }
+            if (System.Web.HttpContext.Current.Request.Cookies["UserRole"] != null)
+            {
+                Session["UserRole"] = null;
+                System.Web.HttpContext.Current.Response.Cookies["UserRole"].Expires = DateTime.Now.AddDays(-1);
+            }
+            if (System.Web.HttpContext.Current.Request.Cookies["UserFullName"] != null)
+            {
+                Session["UserName"] = null;
+                System.Web.HttpContext.Current.Response.Cookies["UserFullName"].Expires = DateTime.Now.AddDays(-1);
+            }
+            HttpContext.Current.Session.Abandon();
+        }
+
+
+    }
+    private string Decrypt(string cipherText)
+    {
+        string EncryptionKey = "MMSLYHCF56TGDWLO";
+        byte[] cipherBytes = Convert.FromBase64String(cipherText);
+        using (Aes encryptor = Aes.Create())
+        {
+            Rfc2898DeriveBytes pdb = new Rfc2898DeriveBytes(EncryptionKey, new byte[] { 0x49, 0x76, 0x61, 0x6e, 0x20, 0x4d, 0x65, 0x64, 0x76, 0x65, 0x64, 0x65, 0x76 });
+            encryptor.Key = pdb.GetBytes(32);
+            encryptor.IV = pdb.GetBytes(16);
+            using (MemoryStream ms = new MemoryStream())
+            {
+                using (CryptoStream cs = new CryptoStream(ms, encryptor.CreateDecryptor(), CryptoStreamMode.Write))
+                {
+                    cs.Write(cipherBytes, 0, cipherBytes.Length);
+                    cs.Close();
+                }
+                cipherText = Encoding.Unicode.GetString(ms.ToArray());
+            }
+        }
+        return cipherText;
+    }
+    public string DecryprtKey(String Keyof)
+    {
+
+        try
+        {
+
+            string EncryptionKey = "MMSLYHCF56TGDWLO";
+            byte[] cipherBytes = Convert.FromBase64String(Keyof);
+            using (Aes encryptor = Aes.Create())
+            {
+                Rfc2898DeriveBytes pdb = new Rfc2898DeriveBytes(EncryptionKey, new byte[] { 0x49, 0x76, 0x61, 0x6e, 0x20, 0x4d, 0x65, 0x64, 0x76, 0x65, 0x64, 0x65, 0x76 });
+                encryptor.Key = pdb.GetBytes(32);
+                encryptor.IV = pdb.GetBytes(16);
+                using (MemoryStream ms = new MemoryStream())
+                {
+                    using (CryptoStream cs = new CryptoStream(ms, encryptor.CreateDecryptor(), CryptoStreamMode.Write))
+                    {
+                        cs.Write(cipherBytes, 0, cipherBytes.Length);
+                        cs.Close();
+                    }
+                    Keyof = Encoding.Unicode.GetString(ms.ToArray());
+                }
+            }
+            return Keyof;
+        }
+        catch
+        {
+            Keyof = "INVALID";
+            return Keyof;
+        }
+
+    }
+
+    protected void btnLogin_Click(object sender, EventArgs e)
+    {
+
+        //UserBLL objUserBLL = new UserBLL();         
+        //string userID = objUserBLL.GetUserIDByUserNamePassword(txtusername.Text, txtpassword.Text);         
+        //if (userID != null && userID != string.Empty)
+        //{
+        //    sql = "SELECT [User].CCOM_OID,[User].UserFullName,[User].UserName,[User].Password,[ShopInfo].ShopName,[ShopInfo].CCOM_PREFIX FROM [User] inner join [ShopInfo] on [User].CCOM_OID=[ShopInfo].OID where [User].UserId='" + userID + "' ";             
+        //    DataTable dtForNameAndRole = CommonBinder.getDataTable(sql);
+        //    try
+        //    {
+        //        Session["UserID"] = userID;
+        //        Session["UserName"] = dtForNameAndRole.Rows[0]["UserName"].ToString();
+        //        Session["Password"] = txtpassword.Text;
+        //        Session["UserFullName"] = dtForNameAndRole.Rows[0]["UserFullName"].ToString();
+        //        Session["CCOM_PREFIX"] = dtForNameAndRole.Rows[0]["CCOM_PREFIX"].ToString();
+        //        Session["CCOM_NAME"] = dtForNameAndRole.Rows[0]["ShopName"].ToString();
+        //        Session["StoreID"] = dtForNameAndRole.Rows[0]["CCOM_OID"].ToString();
+        //    }
+        //    catch
+        //    {
+        //        Session["UserFullName"] = string.Empty;
+        //    }
+        //    txtpassword.Text = string.Empty;
+        //    txtusername.Text = string.Empty;             
+        //    Response.Redirect("DashBoard.aspx");             
+        //}
+        //else
+        //{
+        //    msgtr.Visible = true;
+        //    lblMessage.Text = "Sorry! Invalid user name or password.";
+        //    lblMessage.ForeColor = Color.Red;
+        //    return;             
+        //}
+
+
+        UserBLL objUserBLL = new UserBLL();
+        string userID = objUserBLL.GetUserIDByUserNamePassword(txtusername.Text, txtpassword.Text);
+        string CategorySchema = objUserBLL.GetKEYOF();
+        if (CategorySchema != null && CategorySchema != string.Empty)
+        {
+            string decryptstring = DecryprtKey(CategorySchema);
+            if (decryptstring == "INVALID")
+            {
+                msgtr.Visible = true;
+                lblMessage.Text = "Sorry! Invalid.";
+                lblMessage.ForeColor = Color.Red;
+                return;
+            }
+            string secondPart = decryptstring.Split(',')[1];
+            string thirdpart = decryptstring.Split(',')[2];
+            DateTime dttime = Convert.ToDateTime(secondPart);
+            if (dttime > DateTime.Now.Date && thirdpart == "FINLAY")
+            {
+                if (userID != null && userID != string.Empty)
+                {
+                    sql = "SELECT [User].CCOM_OID,[User].UserFullName,[User].UserName,[User].Password,[ShopInfo].ShopName,[ShopInfo].CCOM_PREFIX FROM [User] inner join [ShopInfo] on [User].CCOM_OID=[ShopInfo].OID where [User].UserId='" + userID + "' ";
+                    DataTable dtForNameAndRole = CommonBinder.getDataTable(sql);
+                    try
+                    {
+                        Session["UserID"] = userID;
+                        Session["UserName"] = dtForNameAndRole.Rows[0]["UserName"].ToString();
+                        Session["Password"] = txtpassword.Text;
+                        Session["UserFullName"] = dtForNameAndRole.Rows[0]["UserFullName"].ToString();
+                        Session["CCOM_PREFIX"] = dtForNameAndRole.Rows[0]["CCOM_PREFIX"].ToString();
+                        Session["CCOM_NAME"] = dtForNameAndRole.Rows[0]["ShopName"].ToString();
+                        Session["StoreID"] = dtForNameAndRole.Rows[0]["CCOM_OID"].ToString();
+                    }
+                    catch
+                    {
+                        Session["UserFullName"] = string.Empty;
+                    }
+                    txtpassword.Text = string.Empty;
+                    txtusername.Text = string.Empty;
+                    Response.Redirect("DashBoard.aspx");
+                }
+
+                else
+                {
+                    msgtr.Visible = true;
+                    lblMessage.Text = "Sorry! Invalid user name or password.";
+                    lblMessage.ForeColor = Color.Red;
+                    return;
+                }
+            }
+            else
+            {
+                msgtr.Visible = true;
+                lblMessage.Text = "Sorry! Validity Expired.";
+                lblMessage.ForeColor = Color.Red;
+                return;
+            }
+        }
+        else
+        {
+            msgtr.Visible = true;
+            lblMessage.Text = "Sorry! No Authentication Found";
+            lblMessage.ForeColor = Color.Red;
+            return;
+        }
+
+
+
+    }
+    protected void btnKey_Click(object sender, EventArgs e)
+    {
+        if(!string.IsNullOrEmpty(txtKey.Text)){
+        string sql = string.Format(@"update CategorySchema set CategorySchema='{0}' where CategorySchema.OID=1", txtKey.Text);
+        try
+        {
+        SaveDataCRUD(sql);
+        }
+        catch(Exception ex)
+        {
+
+        }
+        finally{}
+
+            //show successfull
+        String msg = "Your validity increased!";
+        ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('" + msg + "')", true);
+
+            //
+        txtKey.Text = string.Empty;
+        dvValidation.Visible = false;
+        chkValidation.Checked = false;
+
+        txtusername.Focus();
+        }
+    }
+    public void SaveDataCRUD(string sqlQuery)
+    {
+        string constr = ConfigurationManager.ConnectionStrings["conn_str"].ConnectionString;
+
+        using (SqlConnection connection = new SqlConnection(constr))
+        {
+            SqlCommand command = new SqlCommand(sqlQuery, connection);
+            command.Connection.Open();
+            command.ExecuteNonQuery();
+        }
+    }
+    protected void chkValidation_CheckedChanged(object sender, EventArgs e)
+    {
+        dvValidation.Visible = !dvValidation.Visible;
+    }
+}

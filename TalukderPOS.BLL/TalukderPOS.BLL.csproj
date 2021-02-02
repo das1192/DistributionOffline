@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{56863B1F-A3A2-44E3-8222-DBE35048339F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TalukderPOS.BLL</RootNamespace>
+    <AssemblyName>TalukderPOS.BLL</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TalukderPOS.BusinessObjects\TalukderPOS.BusinessObjects.csproj">
+      <Project>{7898d543-932a-40af-8519-41dd24bff6fe}</Project>
+      <Name>TalukderPOS.BusinessObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TalukderPOS.DAL\TalukderPOS.DAL.csproj">
+      <Project>{9e2d2040-b6b5-42b0-ae67-84d2ac270ac6}</Project>
+      <Name>TalukderPOS.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccVoucherTypeBLL.cs" />
+    <Compile Include="AddShopBILL.cs" />
+    <Compile Include="Barcode_BILL.cs" />
+    <Compile Include="Color_BLL.cs" />
+    <Compile Include="BankInfoBILL.cs" />
+    <Compile Include="BankAccountReport_BILL.cs" />
+    <Compile Include="PettyCashBILL.cs" />
+    <Compile Include="DailyCostBLL.cs" />
+    <Compile Include="CostingHeadBILL.cs" />
+    <Compile Include="Vendor_OutgoingBLL.cs" />
+    <Compile Include="ProductTransferToSIS_BILL.cs" />
+    <Compile Include="DiscountReference_BILL.cs" />
+    <Compile Include="DiscountTypeBILL.cs" />
+    <Compile Include="MenuHeadBLL.cs" />
+    <Compile Include="MenuPageBLL.cs" />
+    <Compile Include="MenuPermissionBLL.cs" />
+    <Compile Include="Model_BLL.cs" />
+    <Compile Include="NewsFeed_BILL.cs" />
+    <Compile Include="ProductPrice_BLL.cs" />
+    <Compile Include="ProductVendorBILL.cs" />
+    <Compile Include="SalesReport_BILL.cs" />
+    <Compile Include="SearchInvoiceForAdmin_BILL.cs" />
+    <Compile Include="StockReportForAdmin_BILL.cs" />
+    <Compile Include="StockReturn_BILL.cs" />
+    <Compile Include="StuffInformation_BILL.cs" />
+    <Compile Include="T_PRODBLL.cs" />
+    <Compile Include="T_SALES_DTLBLL.cs" />
+    <Compile Include="T_WGPGBLL.cs" />
+    <Compile Include="UserBLL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,75 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalukderPOS.BusinessObjects", "TalukderPOS.BusinessObjects\TalukderPOS.BusinessObjects.csproj", "{7898D543-932A-40AF-8519-41DD24BFF6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalukderPOS.DAL", "TalukderPOS.DAL\TalukderPOS.DAL.csproj", "{9E2D2040-B6B5-42B0-AE67-84D2AC270AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalukderPOS.BLL", "TalukderPOS.BLL\TalukderPOS.BLL.csproj", "{56863B1F-A3A2-44E3-8222-DBE35048339F}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "POS.WEB.UI", "POS.WEB.UI", "{FB27CBFF-A969-4BDA-94DD-BBAF103DDB78}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{7898D543-932A-40AF-8519-41DD24BFF6FE}|TalukderPOS.BusinessObjects.dll;{9E2D2040-B6B5-42B0-AE67-84D2AC270AC6}|TalukderPOS.DAL.dll;{56863B1F-A3A2-44E3-8222-DBE35048339F}|TalukderPOS.BLL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/POS.WEB.UI"
+		Debug.AspNetCompiler.PhysicalPath = "POS.WEB.UI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\POS.WEB.UI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/POS.WEB.UI"
+		Release.AspNetCompiler.PhysicalPath = "POS.WEB.UI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\POS.WEB.UI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1474"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vigilante-bd.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = POS.WEB.UI
+		SccProjectName1 = POS.WEB.UI
+		SccLocalPath1 = POS.WEB.UI
+		SccProjectEnlistmentChoice1 = 2
+		SccProjectUniqueName2 = TalukderPOS.BLL\\TalukderPOS.BLL.csproj
+		SccProjectName2 = TalukderPOS.BLL
+		SccLocalPath2 = TalukderPOS.BLL
+		SccProjectUniqueName3 = TalukderPOS.BusinessObjects\\TalukderPOS.BusinessObjects.csproj
+		SccProjectName3 = TalukderPOS.BusinessObjects
+		SccLocalPath3 = TalukderPOS.BusinessObjects
+		SccProjectUniqueName4 = TalukderPOS.DAL\\TalukderPOS.DAL.csproj
+		SccProjectName4 = TalukderPOS.DAL
+		SccLocalPath4 = TalukderPOS.DAL
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7898D543-932A-40AF-8519-41DD24BFF6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7898D543-932A-40AF-8519-41DD24BFF6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2D2040-B6B5-42B0-AE67-84D2AC270AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2D2040-B6B5-42B0-AE67-84D2AC270AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56863B1F-A3A2-44E3-8222-DBE35048339F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56863B1F-A3A2-44E3-8222-DBE35048339F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB27CBFF-A969-4BDA-94DD-BBAF103DDB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB27CBFF-A969-4BDA-94DD-BBAF103DDB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB27CBFF-A969-4BDA-94DD-BBAF103DDB78}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB27CBFF-A969-4BDA-94DD-BBAF103DDB78}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

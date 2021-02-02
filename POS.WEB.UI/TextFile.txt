@@ -1,0 +1,74 @@
+﻿<?xml version="1.0"?><!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  --><configuration><configSections><sectionGroup name="businessObjects"><sectionGroup name="crystalReports"><section name="rptBuildProvider" type="CrystalDecisions.Shared.RptBuildProviderHandler, CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, Custom=null"/></sectionGroup></sectionGroup></configSections>
+	<connectionStrings>
+		<!--<add name="conn_str" connectionString="Data Source=tcp:s09.winhost.com; Initial Catalog=DB_49029_merit; Integrated Security =true;User ID=DB_49029_merit_user;Password=dbpass123;  Connect Timeout=1000;" providerName="System.Data.SqlClient" />-->
+		<!--<add name="conn_str" connectionString="Data Source=.\SQLEXPRESSR2; Initial Catalog=PurchaseMgnt; Integrated Security =true;  Connect Timeout=1000;" providerName="System.Data.SqlClient" />-->
+		<!--<add name="conn_str" connectionString="Data Source=203.202.253.158; Initial Catalog=TG_POS; Integrated Security =true; User ID=Gononet;Password=1qaz321`; Connect Timeout=1000;" providerName="System.Data.SqlClient"/>-->
+    <add name="conn_str" connectionString="Data Source=NETADMIN\SQLSERVER2008; Initial Catalog=Talukder_POS; Integrated Security =true; User ID=Unknown;Password=1qaz321`; Connect Timeout=1000;" providerName="System.Data.SqlClient"/>
+	</connectionStrings>
+	<system.web>
+		<customErrors mode="Off"></customErrors>
+		<sessionState timeout="60"></sessionState>
+		<httpHandlers>
+			<add path="Reserved.ReportViewerWebControl.axd" verb="*" type="Microsoft.Reporting.WebForms.HttpHandler, Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" validate="false"/>
+		</httpHandlers>
+		<compilation debug="true" targetFramework="4.0">
+			<assemblies>
+				<!--<clear/>-->
+				<add assembly="System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>
+				<add assembly="System.Drawing.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+				<add assembly="System.Runtime.Caching, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+				<add assembly="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+				<add assembly="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+				<add assembly="System.Data.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>
+				<add assembly="System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+				<add assembly="System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>
+				<add assembly="System.Data.Services.Client, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>
+				<add assembly="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+				<add assembly="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+				<add assembly="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+				<add assembly="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/>
+				<add assembly="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/></assemblies>
+			<buildProviders>
+				<add extension=".rdlc" type="Microsoft.Reporting.RdlBuildProvider, Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+			<add extension=".rpt" type="CrystalDecisions.Web.Compilation.RptBuildProvider, CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"/></buildProviders>
+		</compilation>
+		<authentication mode="Forms">
+			<forms loginUrl="~/Account/Login.aspx" timeout="2880"/>
+		</authentication>
+		<pages controlRenderingCompatibilityVersion="3.5" clientIDMode="AutoID" enableViewStateMac="false" viewStateEncryptionMode="Never">
+			<controls>
+				<add assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagPrefix="asp"/>
+				<add assembly="AjaxControlToolkit" namespace="AjaxControlToolkit.HTMLEditor" tagPrefix="asp"/>
+			</controls>
+		</pages>
+		<membership>
+			<providers>
+				<clear/>
+				<add name="AspNetSqlMembershipProvider" type="System.Web.Security.SqlMembershipProvider" connectionStringName="ApplicationServices" enablePasswordRetrieval="false" enablePasswordReset="true" requiresQuestionAndAnswer="false" requiresUniqueEmail="false" maxInvalidPasswordAttempts="5" minRequiredPasswordLength="6" minRequiredNonalphanumericCharacters="0" passwordAttemptWindow="10" applicationName="/"/>
+			</providers>
+		</membership>
+		<profile>
+			<providers>
+				<clear/>
+				<add name="AspNetSqlProfileProvider" type="System.Web.Profile.SqlProfileProvider" connectionStringName="ApplicationServices" applicationName="/"/>
+			</providers>
+		</profile>
+		<roleManager enabled="false">
+			<providers>
+				<clear/>
+				<add name="AspNetSqlRoleProvider" type="System.Web.Security.SqlRoleProvider" connectionStringName="ApplicationServices" applicationName="/"/>
+				<add name="AspNetWindowsTokenRoleProvider" type="System.Web.Security.WindowsTokenRoleProvider" applicationName="/"/>
+			</providers>
+		</roleManager>
+	</system.web>
+	<system.webServer>
+		<modules runAllManagedModulesForAllRequests="true"/>
+		<validation validateIntegratedModeConfiguration="false"/>
+		<handlers>
+			<add name="ReportViewerWebControlHandler" preCondition="integratedMode" verb="*" path="Reserved.ReportViewerWebControl.axd" type="Microsoft.Reporting.WebForms.HttpHandler, Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+		</handlers>
+	</system.webServer>
+<businessObjects><crystalReports><rptBuildProvider><add embedRptInResource="true"/></rptBuildProvider></crystalReports></businessObjects></configuration>

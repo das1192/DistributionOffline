@@ -1,0 +1,361 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage_01-Aug-2019.master.cs" Inherits="MasterPage" %>
+
+<%@ Import Namespace="System.Collections.Generic" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="Styles/style.css" media="screen" />
+    <%--<link type="image/x-icon" href="Images/favicon.jpg" rel="shortcut icon" />--%>
+    <link rel="stylesheet" href="Styles/MainDashBoard.css" type="text/css" />
+    <link rel="stylesheet" href="Styles/tabs.css" type="text/css" />
+    <link rel="stylesheet" href="Styles/font-awesome.css" type="text/css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="ddaccordion.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="Styles/boot.css" type="text/css" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="Styles/AdminLTE.css" type="text/css" />
+    <script type="text/javascript">
+
+        var submit = 0;
+        function CheckIsRepeat() {
+            if (++submit > 1) {
+                alert('An attempt was made to submit this form more than once; this extra attempt will be ignored.');
+                return false;
+            }
+        }
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+        }
+
+
+        function showpreview(input) {
+
+            if (input.files && input.files[0]) {
+
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $('#imgpreview').css('visibility', 'visible');
+                    $('#imgpreview').attr('src', e.target.result);
+                }
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+        function savesuc() {
+            alert("Saved Successfully");
+        }
+
+        function ShowMessage() {
+            alert("Saved Successfully");
+            window.location.href = "T_PRODForm.aspx?menuhead=102";
+        }
+
+        function ShowMessageupdate() {
+            alert("Updated Successfully");
+            window.location.href = "T_PRODForm.aspx?menuhead=102";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+        }
+
+
+        $(document).ready(function () {
+            $(".announce").click(function () { // Click to only happen on announce links
+
+                var data_id = $(this).data('id');
+                var data_cathead = $(this).data('cathead');
+                $('#cathead').html(data_cathead);
+
+                $.ajax({
+                    type: "POST",
+                    url: "DashBoard.aspx/SendMessage",
+                    //  data: ("id=" + data_id),
+                    data: '{id: "' + data_id + '" }',
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+
+                    error: function (XMLHttpRequest, textStatus, errorThrown) {
+                        alert(textStatus);
+                    },
+                    success: function (data) {
+                        $('#test').html(data.d);
+                        //alert(data.d);
+                    }
+                });
+                $('#myModal').modal('show');
+            });
+        });
+
+
+        //      $(document).ready(function () {
+        //          $(".announce8").click(function () { // Click to only happen on announce links
+
+        //              var data_id = $(this).data('id');
+        //              alert(data_id);
+        //            
+
+
+        //              $.ajax({
+        //                  type: "POST",
+        //                  url: "DashBoard.aspx/GetInvoice",
+        //                  //  data: ("id=" + data_id),
+        //                  data: '{id: "' + data_id + '" }',
+        //                  contentType: "application/json; charset=utf-8",
+        //                  dataType: "json",
+
+        //                  error: function (XMLHttpRequest, textStatus, errorThrown) {
+        //                      alert(textStatus);
+        //                  },
+        //                  success: function (data) {
+        //                      //$('#test').html(data.d);
+        //                      //                      alert(data.d);
+        //                  }
+        //              });
+
+        //             
+
+        //          });
+        //      });
+
+
+
+        $(document).ready(function () {
+            $(".announce2").click(function () { // Click to only happen on announce links
+
+
+
+
+                $.ajax({
+                    type: "POST",
+                    url: "DashBoard.aspx/Totalmonthsale",
+                    //  data: ("id=" + data_id),
+                    //data: '{id: "' + data_id + '" }',
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+
+                    error: function (XMLHttpRequest, textStatus, errorThrown) {
+                        alert(textStatus);
+                    },
+                    success: function (data) {
+                        $('#test2').html(data.d);
+                        //                      alert(data.d);
+                    }
+                });
+
+                $('#myModal2').modal('show');
+
+            });
+        });
+
+
+        $(document).on("click", "#submit_btn", function (event) {
+            alert("GO");
+            var data_id = $(this).data('id');
+
+            $.ajax({
+                type: "POST",
+                url: "DashBoard.aspx/GetInvoice",
+                //data: ("id=" + data_id),
+                data: '{id: "' + data_id + '" }',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert(textStatus);
+                },
+                success: function (data) {
+                    //$('#test').html(data.d);
+                    //alert(data.d);
+                    alert(data.d);
+                }
+            });
+
+        });
+
+
+
+        $(document).ready(function () {
+            $(".announce5").click(function () { // Click to only happen on announce links
+                $.ajax({
+                    type: "POST",
+                    url: "DashBoard.aspx/Totaldailysale",
+                    //  data: ("id=" + data_id),
+                    //data: '{id: "' + data_id + '" }',
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+
+                    error: function (XMLHttpRequest, textStatus, errorThrown) {
+                        alert(textStatus);
+                    },
+                    success: function (data) {
+                        $('#test5').html(data.d);
+                        //alert(data.d);
+                    }
+                });
+
+                $('#myModal5').modal('show');
+
+            });
+        });
+
+
+      
+    </script>
+    <style type="text/css">
+        .sidenav
+        {
+            height: 100%;
+            width: 0;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background: rgb(149,149,149); /* Old browsers */
+            background: -moz-linear-gradient(top, rgba(149,149,149,1) 0%, rgba(13,13,13,1) 46%, rgba(1,1,1,1) 50%, rgba(10,10,10,1) 53%, rgba(78,78,78,1) 76%, rgba(56,56,56,1) 87%, rgba(27,27,27,1) 100%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(top, rgba(149,149,149,1) 0%,rgba(13,13,13,1) 46%,rgba(1,1,1,1) 50%,rgba(10,10,10,1) 53%,rgba(78,78,78,1) 76%,rgba(56,56,56,1) 87%,rgba(27,27,27,1) 100%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(to bottom, rgba(149,149,149,1) 0%,rgba(13,13,13,1) 46%,rgba(1,1,1,1) 50%,rgba(10,10,10,1) 53%,rgba(78,78,78,1) 76%,rgba(56,56,56,1) 87%,rgba(27,27,27,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#959595', endColorstr='#1b1b1b',GradientType=0 ); /* IE6-9 */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#959595', endColorstr='#1b1b1b',GradientType=0 ); /* IE6-9 */
+            overflow-x: hidden;
+            transition: 0.5s;
+            padding-top: 60px;
+        }
+        
+        .sidenav a
+        {
+            padding: 8px 8px 8px 32px;
+            text-decoration: none;
+            font-size: 16px;
+            color: #fff;
+            display: block;
+            transition: 0.3s;
+            border-bottom: 2px solid #ffe4e1;
+            font-weight: bold;
+            font-family: monospace;
+        }
+        
+        .mainul li a
+        {
+            border-bottom: 1px solid #fff;
+            font-size: 12px;
+            padding-left: 60px;
+            background-color: #796767;
+        }
+        
+        .sidenav a:hover, .offcanvas a:focus
+        {
+            color: #00FFFF;
+        }
+        
+        .sidenav .closebtn
+        {
+            position: absolute;
+            top: 0;
+            right: 25px;
+            font-size: 36px;
+            margin-left: 50px;
+        }
+        
+        @media screen and (max-height: 450px)
+        {
+            .sidenav
+            {
+                padding-top: 15px;
+            }
+            .sidenav a
+            {
+                font-size: 18px;
+            }
+        }
+    </style>
+    <script type="text/javascript" src="ddaccordion2.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <%-- <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>--%>
+    <asp:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
+    </asp:ToolkitScriptManager>
+    <div id="header">
+        <div class="header_inner">
+            <!--Begin header_inner-->
+            <div class="logo">
+                <asp:Image ID="Image1" runat="server" Width="220" Height="91" AlternateText="Logo" />
+            </div>
+            <div class="inner_right">
+                <!--Begin inner_right-->
+                <div class="inner_right_left">
+                    <h3>
+                        Point Of Sale (POS)</h3>
+                </div>
+                <div class="inner_right_right">
+                    <asp:Label ID="lblUser" runat="server" Text="" ForeColor="#F49521" Style="color: #fff;"></asp:Label>
+                    | <a href='default.aspx'><span class='label label-danger' style='font-size: 16px;'>Logout</span></a>
+                    <%--<a id="A13" class="ChangePassword" href="#">Change Password</a>--%>
+                </div>
+            </div>
+            <!--End inner_right-->
+        </div>
+        <!--End header_inner-->
+    </div>
+    <!--End Header-->
+    <div style="width: auto; height: 100%; overflow: hidden; background-color: #d9dce5">
+        <div id="body">
+            <asp:Literal ID="tempHtmlTable" runat="server"></asp:Literal>
+            <!--Begin body-->
+            <div style="clear: both">
+            </div>
+            <div style="width: 93%; margin: 0 auto;">
+                <asp:ContentPlaceHolder ID="ViewContentPlace" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <!--End body-->
+    </div>
+    <div id="footer">
+        <!--Begin footer-->
+        <div class="footer_text col-md-4">
+            <!--Begin footer_text-->
+            <p style="font-size: 15px;">
+                Powered by - <a href="http://www.joshbox.com.bd/">MM Service Ltd. 2013 V1.2</a></p>
+        </div>
+        <!--End footer_text-->
+        <div class="footer_middle col-md-4" align="right">
+            <!--Begin footer_middle-->
+        </div>
+        <!--End footer_middle-->
+        <div class="footer_right col-md-4 pull-right" align="right">
+            <p>
+                <asp:Label ID="lblHotLine" CssClass="align:right" runat="server" Text="Hot Line : 01632 54 93 23 (10am-5pm)"
+                    Font-Bold="True" Font-Italic="True" Font-Size="Larger" ForeColor="#CC3300"></asp:Label></p>
+        </div>
+        <!--End footer_right-->
+    </div>
+    <!--End footer-->
+    </form>
+    <!--Yeasin-28-April-2019 Script.Start-->
+    <script type="text/javascript" language="javascript">
+        $(document).ready(function () {
+            $("#showHidePaySupplier").click(function () {
+                console.log("Panel Show");
+                if ($('#PaySupplierPanel').css("display") == "none") {
+                    $('#PaySupplierPanel').css("display", "block");
+                    $("#PaySupplierPanel").fadeIn();
+                }
+                else {
+                    $("#PaySupplierPanel").fadeOut();
+                    $('#PaySupplierPanel').css("display", "none");
+                }
+            })
+        });
+    </script>
+    <!--Yeasin-28-April-2019 Script.End-->
+</body>
+</html>

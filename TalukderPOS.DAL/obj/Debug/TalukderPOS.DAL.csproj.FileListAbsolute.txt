@@ -1,0 +1,922 @@
+F:\Tuhin\Generated\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+F:\Tuhin\Generated\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+F:\Tuhin\Generated\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+F:\Tuhin\Generated\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+F:\Tuhin\Generated\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Tuhin\Generated\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+F:\Tuhin\Generated\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Jahid-Project\02-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Jahid-Project\02-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Jahid-Project\02-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Jahid-Project\02-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Jahid-Project\02-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Jahid-Project\02-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Jahid-Project\02-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\AllProject\02-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Jahid\AllProject\02-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\AllProject\02-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Jahid\AllProject\02-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Jahid\AllProject\02-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Jahid\AllProject\02-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Jahid\AllProject\02-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\AllProject\TG_POS\03-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Jahid\AllProject\TG_POS\03-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\AllProject\TG_POS\03-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Jahid\AllProject\TG_POS\03-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Jahid\AllProject\TG_POS\03-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Jahid\AllProject\TG_POS\03-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Jahid\AllProject\TG_POS\03-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+F:\Tuhin\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+F:\Tuhin\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+F:\Tuhin\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+F:\Tuhin\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+F:\Tuhin\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Tuhin\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+F:\Tuhin\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\FromTuhin_TalukderPos_Integrated\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Jahid\FromTuhin_TalukderPos_Integrated\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\FromTuhin_TalukderPos_Integrated\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Jahid\FromTuhin_TalukderPos_Integrated\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Jahid\FromTuhin_TalukderPos_Integrated\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Jahid\FromTuhin_TalukderPos_Integrated\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Jahid\FromTuhin_TalukderPos_Integrated\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\04-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Jahid\04-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\04-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Jahid\04-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Jahid\04-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Jahid\04-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Jahid\04-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\06-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Jahid\06-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\06-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Jahid\06-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Jahid\06-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Jahid\06-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Jahid\06-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\07-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Jahid\07-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\07-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Jahid\07-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Jahid\07-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Jahid\07-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Jahid\07-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\08-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Jahid\08-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\08-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Jahid\08-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Jahid\08-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Jahid\08-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Jahid\08-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\09-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Jahid\09-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Jahid\09-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Jahid\09-12-2012\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Jahid\09-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Jahid\09-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Jahid\09-12-2012\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\Develop Software\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\Develop Software\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\Develop Software\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\Develop Software\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\Develop Software\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\Develop Software\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\Develop Software\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+C:\Users\Maruf\Desktop\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+C:\Users\Maruf\Desktop\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+C:\Users\Maruf\Desktop\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+C:\Users\Maruf\Desktop\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+C:\Users\Maruf\Desktop\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maruf\Desktop\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+C:\Users\Maruf\Desktop\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+F:\Developed Software\MMSL\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+F:\Developed Software\MMSL\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+F:\Developed Software\MMSL\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+F:\Developed Software\MMSL\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+F:\Developed Software\MMSL\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Developed Software\MMSL\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+F:\Developed Software\MMSL\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Projects\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Projects\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Projects\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Projects\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Projects\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Projects\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Projects\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Projects\TalukderPOS\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Projects\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Projects\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Projects\TalukderPOS\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Projects\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+F:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+F:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+F:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+F:\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+F:\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+F:\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\POS for hafiz and ruhel vai\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\POS for hafiz and ruhel vai\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\POS for hafiz and ruhel vai\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\POS for hafiz and ruhel vai\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\POS for hafiz and ruhel vai\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\POS for hafiz and ruhel vai\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\POS for hafiz and ruhel vai\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\POS\POS ALL\SES POS\28122015 POS after print sis and closing bal update\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\POS\POS ALL\SES POS\28122015 POS after print sis and closing bal update\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\POS\POS ALL\SES POS\28122015 POS after print sis and closing bal update\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\POS\POS ALL\SES POS\28122015 POS after print sis and closing bal update\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\POS\POS ALL\SES POS\28122015 POS after print sis and closing bal update\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\POS\POS ALL\SES POS\28122015 POS after print sis and closing bal update\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\POS\POS ALL\SES POS\28122015 POS after print sis and closing bal update\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+F:\newtal\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+F:\newtal\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+F:\newtal\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+F:\newtal\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+F:\newtal\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\newtal\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+F:\newtal\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+F:\aftertalukdar\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+F:\aftertalukdar\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+F:\aftertalukdar\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+F:\aftertalukdar\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+F:\aftertalukdar\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\aftertalukdar\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+F:\aftertalukdar\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+F:\deensinvoice\after\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+F:\deensinvoice\after\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+F:\deensinvoice\after\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+F:\deensinvoice\after\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+F:\deensinvoice\after\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\deensinvoice\after\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+F:\deensinvoice\after\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+F:\all\deensinvoice\after\TalukderPOS_invoice\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+F:\all\deensinvoice\after\TalukderPOS_invoice\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+F:\all\deensinvoice\after\TalukderPOS_invoice\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+F:\all\deensinvoice\after\TalukderPOS_invoice\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+F:\all\deensinvoice\after\TalukderPOS_invoice\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\all\deensinvoice\after\TalukderPOS_invoice\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+F:\all\deensinvoice\after\TalukderPOS_invoice\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+F:\POS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+F:\POS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+F:\POS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+F:\POS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+F:\POS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+F:\POS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+F:\POS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\TalukderPOS_19122016\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\TalukderPOS_19122016\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\TalukderPOS_19122016\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\TalukderPOS_19122016\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\TalukderPOS_19122016\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\TalukderPOS_19122016\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\TalukderPOS_19122016\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\POS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\POS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\POS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\POS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\POS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\POS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\POS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\AspProject\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\AspProject\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\AspProject\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\AspProject\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\AspProject\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\AspProject\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\AspProject\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\NEWPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\NEWPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\NEWPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\NEWPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\LITEPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\LITEPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\NEWPOS\newl\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\NEWPOS\newl\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\NEWPOS\newl\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\NEWPOS\newl\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\NEWPOS\newl\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\NEWPOS\newl\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\NEWPOS\newl\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\newl\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\newl\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\newl\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\LITEPOS\newl\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\LITEPOS\newl\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\newl\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\newl\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\NEWPOS\LIVELITEPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\NEWPOS\LIVELITEPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\NEWPOS\LIVELITEPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\NEWPOS\LIVELITEPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\NEWPOS\LIVELITEPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\NEWPOS\LIVELITEPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\NEWPOS\LIVELITEPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\Update08062017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\Update08062017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\Update08062017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\LITEPOS\NEWLNEW\Update08062017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\LITEPOS\NEWLNEW\Update08062017\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\NEWLNEW\Update08062017\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\Update08062017\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\LITEPOSNEW\26082017\Update08062017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\LITEPOSNEW\26082017\Update08062017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\LITEPOSNEW\26082017\Update08062017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\LITEPOSNEW\26082017\Update08062017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\LITEPOSNEW\26082017\Update08062017\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\LITEPOSNEW\26082017\Update08062017\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\LITEPOSNEW\26082017\Update08062017\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\Update12092017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\Update12092017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\Update12092017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\LITEPOS\NEWLNEW\Update12092017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\LITEPOS\NEWLNEW\Update12092017\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\NEWLNEW\Update12092017\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\Update12092017\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\SADIQ\170919\Update12092017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\SADIQ\170919\Update12092017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\SADIQ\170919\Update12092017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\SADIQ\170919\Update12092017\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\SADIQ\170919\Update12092017\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\SADIQ\170919\Update12092017\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\SADIQ\170919\Update12092017\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\Updated26092017Not Published yet\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\Updated26092017Not Published yet\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\Updated26092017Not Published yet\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\LITEPOS\NEWLNEW\Updated26092017Not Published yet\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\LITEPOS\NEWLNEW\Updated26092017Not Published yet\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\NEWLNEW\Updated26092017Not Published yet\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\Updated26092017Not Published yet\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\SADIQ\171002\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\SADIQ\171002\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\SADIQ\171002\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\SADIQ\171002\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\SADIQ\171002\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\SADIQ\171002\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\SADIQ\171002\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Maruf\LITEPOS\NEWLNEW\zzz\TalukderPOS_171009_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\LITEPOS\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\LITEPOS\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\LITEPOS\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\LITEPOS\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\LITEPOS\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\LITEPOS\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\LITEPOS\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\Hand In\LITEPOS WITH ACCOUNTING\LITEPOS_ACCOUNTING\TalukderPOS_051117_PUR_Offline_Quantity_activeInactive_\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\Hand In\TalukderPOS\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A POS_acc\TalukderPOS_OnLine_20171207\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A POS_acc\TalukderPOS_OnLine_20171207\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A POS_acc\TalukderPOS_OnLine_20171207\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A POS_acc\TalukderPOS_OnLine_20171207\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A POS_acc\TalukderPOS_OnLine_20171207\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A POS_acc\TalukderPOS_OnLine_20171207\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A POS_acc\TalukderPOS_OnLine_20171207\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine_20171207\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine_20171207\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine_20171207\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine_20171207\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine_20171207\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine_20171207\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine_20171207\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\Hand In\POS_\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine (2)_db backup\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine (2)_db backup\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine (2)_db backup\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine (2)_db backup\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine (2)_db backup\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine (2)_db backup\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine (2)_db backup\TalukderPOS_OffLine (4)\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A POS_acc\OFFLINE\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\A_Projects\POS_offLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Latest Codes\Latest Offline POS\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Latest Codes\Latest Offline POS\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Latest Codes\Latest Offline POS\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Latest Codes\Latest Offline POS\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Latest Codes\Latest Offline POS\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\Latest Codes\Latest Offline POS\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Latest Codes\Latest Offline POS\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS_OffLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_Online\TalukderPOS_Online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_Online\TalukderPOS_Online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_Online\TalukderPOS_Online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_Online\TalukderPOS_Online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_Online\TalukderPOS_Online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_Online\TalukderPOS_Online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_Online\TalukderPOS_Online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_171223\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Latest Codes\Latest Online POS\LITEPOSONLINEACC1_2\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Latest Codes\Latest Online POS\LITEPOSONLINEACC1_2\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Latest Codes\Latest Online POS\LITEPOSONLINEACC1_2\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Latest Codes\Latest Online POS\LITEPOSONLINEACC1_2\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Latest Codes\Latest Online POS\LITEPOSONLINEACC1_2\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\Latest Codes\Latest Online POS\LITEPOSONLINEACC1_2\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Latest Codes\Latest Online POS\LITEPOSONLINEACC1_2\LITEPOSONLINEACC1_2\TalukderPOS_OnLine_171230\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine_01012018\TalukderPOS_OnLine\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_03012018\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_03012018\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_03012018\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_03012018\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_03012018\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_03012018\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_03012018\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180106\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Programmin_Sadiq\A_Projects\POS_online\TalukderPOS_OnLine_20180108\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180111\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180111\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180111\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180111\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180111\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180111\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180111\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180113\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180113\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180113\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180113\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180113\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180113\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180113\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine_20180114\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine_20180116\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121 - Copy(Latest)\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121 - Copy(Latest)\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121 - Copy(Latest)\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121 - Copy(Latest)\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121 - Copy(Latest)\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121 - Copy(Latest)\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121 - Copy(Latest)\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+C:\Users\sium\Desktop\Litepos Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+C:\Users\sium\Desktop\Litepos Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+C:\Users\sium\Desktop\Litepos Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+C:\Users\sium\Desktop\Litepos Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+C:\Users\sium\Desktop\Litepos Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+C:\Users\sium\Desktop\Litepos Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+C:\Users\sium\Desktop\Litepos Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\POS_ONLINE_RUN_SALESRETURN\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\POS_ONLINE_RUN_SALESRETURN\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\POS_ONLINE_RUN_SALESRETURN\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\POS_ONLINE_RUN_SALESRETURN\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\POS_ONLINE_RUN_SALESRETURN\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\POS_ONLINE_RUN_SALESRETURN\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\POS_ONLINE_RUN_SALESRETURN\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine_20180121Running\TalukderPOS_OnLine\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321_running\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180321_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\office.dll
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\office.xml
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\LITEPOS03042018\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Latest Codes\Latest Online POS\TalukderPOS_OnLine_20180403_running\TalukderPOS_OnLine_20180403_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_POS_acc\POS_onLine\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\office.dll
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\office.xml
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\ALL\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\TalukderPOS_OnLine_20180417_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\TalukderPOS_OnLine_20180830_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\TalukderPOS_OnLine_20180830_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\TalukderPOS_OnLine_20180830_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\TalukderPOS_OnLine_20180830_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\TalukderPOS_OnLine_20180830_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\TalukderPOS_OnLine_20180830_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\TalukderPOS_OnLine_20180830_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\bin\Debug\office.dll
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\bin\Debug\office.xml
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\ALL\TalukderPOS_OnLine_20180918_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\bin\Debug\office.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\bin\Debug\office.xml
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withOldAdjust_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\office.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\office.xml
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\ALL\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\office.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\bin\Debug\office.xml
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_20181001_withAdjust_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\office.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\office.xml
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\A_One\A_Projects\POS\TalukderPOS_OnLine_running_\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\office.dll
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\office.xml
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\ALL\POS_Online\TalukderPOS_OnLine_running_\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\office.dll
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\bin\Debug\office.xml
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\ALL\POS_Online_Running\TalukderPOS_OnLine_running_\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\bin\Debug\office.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\bin\Debug\office.xml
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\TalukderPOS_OnLine_running_29-May-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\bin\Debug\office.dll
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\bin\Debug\office.xml
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\ALL\POS_Online_Running\Yeasin\TalukderPOS_OnLine_running_By_Yeasin_30-May-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\bin\Debug\office.dll
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\bin\Debug\office.xml
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\ALL\POS_OnLine_30-May-2019_running\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\bin\Debug\office.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\bin\Debug\office.xml
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\bin\Debug\office.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\bin\Debug\office.xml
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\Yeasin_WorkStation\Sources\LOCAL\POS_OnLine_17-Jul-2019_Offline\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\office.dll
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\office.xml
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+E:\ALL\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\office.dll
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\bin\Debug\office.xml
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\Project-codes\Distribution-offline\DistributionOffline\Pos_Offline_Running_05-Aug-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\bin\Debug\office.dll
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\bin\Debug\office.xml
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+F:\Yeasin_WorkStation\Works\Pos_Offline_Running_23-Nov-2019 (2)\Pos_Offline_Running_23-Nov-2019\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\bin\Debug\office.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\bin\Debug\office.xml
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\Mobin_POS_24-Sep-2020\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\bin\Debug\office.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\bin\Debug\office.xml
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+C:\Z-DATA\personal\Projects\Offline_pos_by_sagar_da\OfflinePos\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.dll
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\bin\Debug\TalukderPOS.DAL.pdb
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.dll
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\bin\Debug\office.dll
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\bin\Debug\TalukderPOS.BusinessObjects.pdb
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\bin\Debug\office.xml
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.csprojResolveAssemblyReference.cache
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.dll
+D:\PROJECTS\POS\OFFLINE\OfflinePos\TalukderPOS.DAL\obj\Debug\TalukderPOS.DAL.pdb
